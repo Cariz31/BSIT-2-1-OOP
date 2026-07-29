@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Soliva_BSIT-2-1-OOP.iml" filepath="$PROJECT_DIR$/Soliva_BSIT-2-1-OOP.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/BSIT 2-1 OOP.iml" filepath="$PROJECT_DIR$/BSIT 2-1 OOP.iml" />
+>>>>>>> c1652d185ced4e8e68cd02ceb7097065d399403a
     </modules>
   </component>
 </project>
