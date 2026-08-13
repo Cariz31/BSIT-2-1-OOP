@@ -26,7 +26,7 @@ public class Course {
 
     public String getCourseCode() {
         return courseCode;
-    }
+    } 
 
     public String getTitle() {
         return title;
@@ -44,3 +44,4 @@ public class Course {
         return enrolledCount;
     }
 }
+  // baho jose rivera
