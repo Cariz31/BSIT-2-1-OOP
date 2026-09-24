@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
+<<<<<<< HEAD
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -112,3 +113,13 @@ public class Main {
         }
     }
 }
+=======
+    public static void main (String[] args) {
+
+        Scanner sc = new Scanner (System.in);
+
+        System.out,println ("");
+
+    }
+}
+>>>>>>> c1652d185ced4e8e68cd02ceb7097065d399403a
